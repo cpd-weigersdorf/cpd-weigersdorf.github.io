@@ -1,0 +1,122 @@
+body {
+    color: #FFF;
+}
+
+td {
+    padding: 10px 15px;
+}
+
+.container-fluid {
+    padding-left: 0;
+}
+
+
+.fr-sm-navigation {
+    background: #303F9F;
+    color: #FFFFFF;
+    position: fixed;
+    width: 100%;
+    max-height: 10%;
+    
+    clear: both;
+    
+    z-index: 11000;
+    
+    overflow: hidden;
+}
+
+
+.fr-sm-navigation .fr-menu-toogle {
+    width: 10%;
+    height: 100%;
+    
+    padding: 15px;
+    
+    float: left;
+    margin-right: 50px;
+}
+
+.fr-sm-navigation .fr-brand {
+    float: left;
+}
+
+.fr-left-bar {
+    background: #303F9F;
+    height: 100vh;
+    color: #FFFFFF;
+    
+    position: fixed;
+    
+    z-index: 10000;
+    
+    padding-top: 50px;
+}
+
+
+.fr-content {
+    background: #212121;
+    min-height: 100vh;
+    
+    color: #FFFFFF;
+}
+
+.fr-wappen {
+    width: 100%;
+}
+
+.fr-heading {
+    text-align: center;
+}
+
+
+.fr-navigation {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 5vh;
+}
+
+.fr-navigation li {
+    padding: 10px 10%;
+    
+    transition: all 0.3s;
+}
+
+.fr-navigation li:hover {
+    background: #3F51B5;
+}
+
+.fr-navigation a {
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 100%;
+}
+
+.fr-no-padding {
+    padding: 0 !important;
+}
+
+.fr-page-header {
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.fr-page-header img {
+    width: 100%;
+}
+
+.fr-footer {
+    border-top: solid 1px #303F9F;
+    color: #FFFFFF;
+    background: #212121;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.fr-navigation {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}
