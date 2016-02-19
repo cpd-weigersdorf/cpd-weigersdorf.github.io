@@ -31,7 +31,7 @@ headerimage: /img/header_mitgliedwerden.png
 </tr>
 
 <tr>
-<td>Jan Witte:</td>
+<td>Miriam Fliegel:</td>
 <td>kasse (at) cpd-meissen.de</td>
 </tr>
 </table>
@@ -51,4 +51,4 @@ Allgemeine administrative Frage klären Sie am besten mit dem Geschäftsführer 
 und Aufgaben die eher das Vereinswesen als die eigentliche Pfadfinderei betreffen.
 
 
-Alle Fragen rund um Mitgliedsbeiträge werden von Jan Witte beantwortet. Er ist aktuell für die Kasse des Stammes verantwortlich.
+Alle Fragen rund um Mitgliedsbeiträge werden von Miriam Fliegel beantwortet. Sie ist aktuell für die Kasse des Stammes verantwortlich.

@@ -8,8 +8,12 @@ td {
 
 .container-fluid {
     padding-left: 0;
+    padding-right: 0;
 }
 
+img {
+    max-width: 100vw;
+}
 
 .fr-sm-navigation {
     background: #303F9F;
