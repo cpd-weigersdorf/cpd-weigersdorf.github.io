@@ -3,7 +3,7 @@ layout: page
 headerimage: /img/header_startseite.png
 ---
 
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 5px; padding-bottom: 5px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
+<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
     <div class="col-md-5 col-md-offset-1">
         <h3>Zeit zu handeln</h3>
         <p>
