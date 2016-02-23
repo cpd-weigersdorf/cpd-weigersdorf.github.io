@@ -1,7 +1,7 @@
 ---
 layout: events-announcement
 headerimage: /veranstaltungen/20160727-bundeslager/header.png
-title: Bundesfeuer 2015
+title: Bundeslager 2016
 from: 27.07.2016
 to: 07.08.2016
 ---
@@ -11,7 +11,7 @@ to: 07.08.2016
 
 Das Bundeslager 2016 steht an. Überall in Deutschland bereiten sich Stämme, 
 Siedlungen und Neuanfänge auf dieses Ereignis vor. Der ganze Bund wird zusammenkommen und 
-spielen, singen und sich gegenseitig kennenlernen. So auch der Stamm Paul Richter.
+spielen, singen und sich gegenseitig kennenlernen.
 
 ### Bist du schon dabei?
 
