@@ -6,17 +6,7 @@ headerimage: /img/header_mitgliedwerden.png
 
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG:</h2>
-<p>Jonathan Günz<br />
-Sülmer Straße 21<br />
-74072 Heilbronn
-</p>
-<h2>Kontakt:</h2>
-<table><tr>
-<td>Telefon:</td>
-<td>01733606971</td></tr>
-<tr><td>E-Mail:</td>
-<td>jonathan.guenz@outlook.com</td>
-</tr></table>
+<p>Chris Woischnik<br />
 <p> </p>
 <p>Quelle: <em><a rel="nofollow" href="http://www.e-recht24.de/impressum-generator.html">http://www.e-recht24.de</a></em></p>
 

@@ -9,8 +9,6 @@ headerimage: /img/header_mitgliedwerden.png
 Mitglied werden kann jeder. Unabhängig von Alter, Geschlecht, Herkunft oder anderen Dingen. Jeder ist willkommen.
 
 
-Für Informationen zur Anmeldung schreiben Sie uns bitte eine E-Mail an **anmelden(at)cpd-meissen.de** und wir melden uns umgehend.
-
 # W&ouml;lflinge
 
 Kinder, M&auml;dchen und Jungen, im Grundschulalter (6-11 Jahre) k&ouml;nnen der Meute „Sioni-W&ouml;lfe beitreten. 
@@ -38,4 +36,3 @@ begeistern können. Hilfe wird immer gebraucht!
 
 
 
-Für weitere Informationen zur Anmeldung, kontaktieren Sie uns bitte unter anmelden(at)cpd-meissen.de
