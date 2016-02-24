@@ -8,9 +8,9 @@ headerimage: /img/header_mitgliedwerden.png
 
     </div>
     <div class="col-md-4">
-        <img src="C:\Users\wolle\Documents\Pfadfinder Website\cpd-weigersdorf.github.io\img\b01.png" style="max-height: 50px;" />
-        <img src="C:\Users\wolle\Documents\Pfadfinder Website\cpd-weigersdorf.github.io\img\b02.png" style="max-height: 50px;" />
-        <img src="C:\Users\wolle\Documents\Pfadfinder Website\cpd-weigersdorf.github.io\img\b03.png" style="max-height: 50px;" />
+        <img src="/cpd-weigersdorf.github.io/img/b01.png" style="max-height: 50px;" />
+        <img src="/cpd-weigersdorf.github.io/img/b02.png" style="max-height: 50px;" />
+        <img src="/cpd-weigersdorf.github.io/img/b03.png" style="max-height: 50px;" />
     </div>
 </div>
 
@@ -22,9 +22,9 @@ headerimage: /img/header_mitgliedwerden.png
                 <div class="tile double">
                     <div class="tile-content image-set">
 
-                               <img src="C:\Users\wolle\Documents\Pfadfinder Website\cpd-weigersdorf.github.io\img\b01.png"/>
-                               <img src="C:\Users\wolle\Documents\Pfadfinder Website\cpd-weigersdorf.github.io\img\b02.png"/>
-                               <img src="C:\Users\wolle\Documents\Pfadfinder Website\cpd-weigersdorf.github.io\img\b03.png"/>
+                               <img src="/cpd-weigersdorf.github.io/img/b01.png"/>
+                               <img src="/cpd-weigersdorf.github.io/img/b02.png"/>
+                               <img src="/cpd-weigersdorf.github.io/img/b03.png"/>
 
                     </div>                
                     <div class="brand bg-red">
