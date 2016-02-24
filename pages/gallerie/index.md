@@ -2,23 +2,33 @@
 layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
-    <div class="col-xs-4">
-        <h3> Bundeslager </h3>
-    </div>
-</div>    
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
-    <div class="col-xs-4">
-        <h3> Bundeslager </h3>
-    </div>
-</div>    
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
-    <div class="col-xs-4">
-        <h3> Bundeslager </h3>
-    </div>
-</div>    
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
-    <div class="col-xs-4">
-        <h3> Bundeslager </h3>
-    </div>
-</div>        
+
+#container {
+	width:100%;
+	height:300px;
+	background:#ccc;
+	display:-webkit-flex;
+	display:flex;
+}
+
+#box1 {
+	background:red;
+	width:250px;
+}
+
+#box2 {
+	background:yellow;
+	width:250px;
+}
+
+#box3 {
+	background:green;
+	width:250px;
+}
+
+#box4 {
+	background:blue;
+	width:250px;
+}
+
+    
