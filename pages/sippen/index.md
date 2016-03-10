@@ -19,7 +19,11 @@ headerimage: /img/header_mitgliedwerden.png
                 </div>
             </div>
       </td>      
+<<<<<<< HEAD
       <td height="150px" width="200px" bgcolor="#006400" onclick="window.location.href = '/pages/kontakt/'">      
+=======
+      <td height="200px" width="200px" bgcolor="#006400" onclick="window.location.href = '/pages/kontakt/'">      
+>>>>>>> parent of af2cdcd... inti
              <h3>Strix Alcuno</h3>
                    
         </td>    
