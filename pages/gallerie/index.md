@@ -8,9 +8,9 @@ headerimage: /img/header_mitgliedwerden.png
 
     </div>
     <div class="col-md-4">
-        <img src="/cpd-weigersdorf.github.io/img/b01.png" style="max-height: 50px;" />
-        <img src="/cpd-weigersdorf.github.io/img/b02.png" style="max-height: 50px;" />
-        <img src="/cpd-weigersdorf.github.io/img/b03.png" style="max-height: 50px;" />
+        <img src="/cpd-weigersdorf.github.io/img/schweden_2011/b01.png" style="max-height: 50px;" />
+        <img src="/cpd-weigersdorf.github.io/img/schweden_2011/b02.png" style="max-height: 50px;" />
+        <img src="/cpd-weigersdorf.github.io/img/schweden_2011/b03.png" style="max-height: 50px;" />
     </div>
 </div>
 
