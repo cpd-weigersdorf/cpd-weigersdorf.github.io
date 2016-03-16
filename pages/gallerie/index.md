@@ -2,7 +2,7 @@
 layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
-<div class="row" style="background: #8B0000; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/pages/schweden_2011/index.md'">
+<div class="row" style="background: #8B0000; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/pages/schweden_2011/'">
     <div class="col-md-5 col-md-offset-1">
         <h3>Schweden 2011</h3>
 
