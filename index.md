@@ -3,11 +3,6 @@ layout: page
 headerimage: /img/header_startseite.png
 ---
 
-<div class="example">
-        <h3>Bundeslager 2016 Countdown</h3>
-        <div class="countdown" data-role="countdown" data-stop="27.07.2016"></div>
-</div>
-        
 <div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">
     <div class="col-md-5 col-md-offset-1">
         <h3>Zeit zu handeln</h3>
