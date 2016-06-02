@@ -6760,4 +6760,7 @@ button.close {
 A {text-decoration: none;}
 A:Hover {text-decoration: underline;}
 }
+a:link { color: #7FFF00; }
+a:visited { color: #cc6666; }
+}
 /*# sourceMappingURL=bootstrap.css.map */
