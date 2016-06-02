@@ -2,8 +2,7 @@
 layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
-<a href="https://www.flickr.com/photos/141398173@N07/albums/72157668327830950/">
- <div class="tile">
+ <div class="tile" href="https://www.flickr.com/photos/141398173@N07/albums/72157668327830950/">
    <div class="tile-content slide-up">
    <a href="https://www.flickr.com/photos/141398173@N07/albums/72157668327830950/">
         <div class="slide">
@@ -14,7 +13,6 @@ headerimage: /img/header_mitgliedwerden.png
          </div>
    </div>
  </div>
-</a> 
 
 
 
