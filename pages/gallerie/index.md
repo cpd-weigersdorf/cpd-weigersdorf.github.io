@@ -9,9 +9,9 @@ headerimage: /img/header_mitgliedwerden.png
         <div class="slide">
           <img src="/img/Schweden.jpg">       
         </div>
-        <div class="slide-over">
-            Sommerlager Schweden 2012
-        </div>
+         <div class="slide-over op-cyan text-small padding10">
+           Sommerlager Schweden 2012             
+         </div>
      </a>
    </div>
 </div>
