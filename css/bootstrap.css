@@ -6761,6 +6761,6 @@ A {text-decoration: none;}
 A:Hover {text-decoration: underline;}
 }
 a:link { color: #000000; }
-a:visited { color: #cc6666; }
+a:visited { color: #000000; }
 }
 /*# sourceMappingURL=bootstrap.css.map */
