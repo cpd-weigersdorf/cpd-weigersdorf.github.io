@@ -17,11 +17,11 @@ headerimage: /img/header_mitgliedwerden.png
 
 <div class="tile-wide bg-orange fg-white" data-role="tile">
                 <div class="tile-content image-set"> 
-                 <a href="https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/"><img src="/img/Schweden.jpg"></a>
-                 <a href="https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/"><img src="/img/Schweden2.jpg"></a>
-                 <a href="https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/"><img src="/img/Schweden3.jpg"></a>
-                 <a href="https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/"><img src="/img/Schweden4.jpg"></a>
-                 <a href="https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/"><img src="/img/Schweden5.jpg"></a>
+                 <img src="/img/Schweden.jpg">
+                 <img src="/img/Schweden2.jpg">
+                 <img src="/img/Schweden3.jpg">
+                 <img src="/img/Schweden4.jpg">
+                 <img src="/img/Schweden5.jpg">
                 </div>
                 <span class="tile-label">Schweden 2011</span>
 </div>
