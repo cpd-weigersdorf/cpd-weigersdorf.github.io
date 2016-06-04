@@ -15,7 +15,7 @@ headerimage: /img/header_mitgliedwerden.png
  </thead>
  <tbody>
   <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><text color="#000000">Bundeslager 2016</text></td>
+   <td font color="#000000" style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Bundeslager 2016</td>
    <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">27.07.2016 - 07.08.2016</td>
    <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Das Bundeslager steht unter dem Motto "Zeit zu handeln".</td>
   </tr>
