@@ -3,7 +3,7 @@ layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
 
-<div class="navy" data-role="calendar" data-week-start="1" data-buttons="false"></div>
+<div class="navy" data-role="calendar" window.METRO_LOCALES="de" data-week-start="1" data-buttons="false"></div>
 
 <table class="table striped hovered cell-hovered border bordered">
  <thead>
