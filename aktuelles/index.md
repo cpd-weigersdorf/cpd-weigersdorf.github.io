@@ -4,4 +4,4 @@ headerimage: /img/header_mitgliedwerden.png
 ---
 
 
-Bundesfeuer 2015 | 02.10.15 - 04.10.15 | [Details](/veranstaltungen/bundesfeuer-2015)
+Bundeslager 2016 | 27.07.16 - 07.08.16 | [Details](/veranstaltungen/20160727-bundeslager/)
