@@ -108,7 +108,7 @@ window.METRO_LOCALES = {
         ],
         days: [
             "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday",
-            "Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"
+            "Su", "Mo", "Di", "Mi", "Do", "Fr", "Sa"
         ],
         buttons: [
             "Today", "Clear", "Cancel", "Help", "Prior", "Next", "Finish"
