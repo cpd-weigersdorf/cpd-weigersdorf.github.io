@@ -15,7 +15,7 @@ headerimage: /img/header_mitgliedwerden.png
 
 
 
-<div class="tile-wide bg-orange fg-white" data-role="tile" href="https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/">
+<div class="tile-wide bg-orange fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/'">
                 <div class="tile-content image-set"> 
                  <img src="/img/Schweden.jpg">
                  <img src="/img/Schweden2.jpg">
