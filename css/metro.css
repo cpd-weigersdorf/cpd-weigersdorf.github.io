@@ -10444,7 +10444,7 @@ input[type="submit"].link:active {
 }
 .panel.collapsible > .heading:before {
   content: "\2212";
-  display: block;
+  display: none;
   position: absolute;
   top: 50%;
   margin-top: -1.3rem;
