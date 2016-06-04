@@ -4,8 +4,9 @@ headerimage: /img/header_mitgliedwerden.png
 ---
 
 <center><h3>Gallerie<h3></center>
-
-<div class="tile-wide bg-blue fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/'">
+<br>
+<br>
+<center><div class="tile-wide bg-blue fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/'">
                 <div class="tile-content image-set"> 
                  <img src="/img/Schweden1.jpg">
                  <img src="/img/Schweden2.jpg">
@@ -13,7 +14,7 @@ headerimage: /img/header_mitgliedwerden.png
                  <img src="/img/Schweden4.jpg">
                  <img src="/img/Schweden5.jpg">
                 </div>
-                <span class="tile-label" style="color:#000000"><b>Schweden 2011</b></span>
+                <span class="tile-label" style="color:#000000">Schweden 2011</span>
 </div>
 
 <div class="tile-wide bg-blue fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157666610522574/'">
@@ -24,5 +25,5 @@ headerimage: /img/header_mitgliedwerden.png
                  <img src="/img/Bula4.jpg">
                  <img src="/img/Bula5.jpg">
                 </div>
-                <span class="tile-label" style="color:#000000"><b>Bundeslager 2012</b></span>
-</div>
+                <span class="tile-label" style="color:#000000">Bundeslager 2012</span>
+</div></center>
