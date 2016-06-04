@@ -3,7 +3,7 @@ layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
 
-
+<div class="navy" data-role="calendar" data-week-start="1" data-buttons="false"></div>
 
 <table class="table striped hovered cell-hovered border bordered">
  <thead>
@@ -14,11 +14,11 @@ headerimage: /img/header_mitgliedwerden.png
   <tr>
  </thead>
  <tbody>
-  <font color="#000000" ><tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Bundeslager 2016</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">27.07.2016 - 07.08.2016</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Das Bundeslager steht unter dem Motto "Zeit zu handeln".</td>
-  </tr></font>
+  <tr>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><font color="#000000" >Bundeslager 2016</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><font color="#000000" >27.07.2016 - 07.08.2016</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><font color="#000000" >Das Bundeslager steht unter dem Motto "Zeit zu handeln".</font></td>
+  </tr>
   <tr>
    <td></td>
    <td> </td>
@@ -33,5 +33,5 @@ headerimage: /img/header_mitgliedwerden.png
 </table>
 
 
-<div class="navy" data-role="calendar" data-week-start="1" data-buttons="false"></div>
+
 
