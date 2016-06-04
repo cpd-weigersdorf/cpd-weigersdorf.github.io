@@ -21,5 +21,5 @@ headerimage: /img/header_mitgliedwerden.png
                  <img src="/img/Bula4.jpg">
                  <img src="/img/Bula5.jpg">
                 </div>
-                <span class="tile-label">Bundeslager 2012</span>
+                <span class="tile-label" style="color:#000000">Bundeslager 2012</span>
 </div>
