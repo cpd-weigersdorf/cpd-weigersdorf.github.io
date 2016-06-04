@@ -3,8 +3,6 @@ layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
 
-<br> 
-
 <div class="panel" data-role="panel">
  <div class="heading">
   /* <img class="icon" src=""> */
