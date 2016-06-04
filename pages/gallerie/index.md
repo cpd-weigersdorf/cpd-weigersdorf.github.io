@@ -3,8 +3,6 @@ layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
 
-<center><h3>Gallerie<h3></center>
-<br>
 <br>
 <center><div class="tile-wide bg-blue fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/'">
                 <div class="tile-content image-set"> 
