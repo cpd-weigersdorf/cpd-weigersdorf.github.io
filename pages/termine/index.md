@@ -14,15 +14,15 @@ headerimage: /img/header_mitgliedwerden.png
   <tr>
  </thead>
  <tbody>
-  <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><font color="#000000" >Bundeslager 2016</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><font color="#000000" >27.07.2016 - 07.08.2016</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'"><font color="#000000" >Das Bundeslager steht unter dem Motto "Zeit zu handeln".</font></td>
+    <tr>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160629-schnupperlager/'"><font color="#000000" >Schnupperlager 2016</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160629-schnupperlager/'"><font color="#000000" >29.06.2016 - 09.07.2016</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160629-schnupperlager/'"><font color="#000000" >Du willst wissen wie das Pfadfinderleben aussieht, dann melde dich doch einfach an.</font></td>
   </tr>
   <tr>
-   <td></td>
-   <td> </td>
-   <td> </td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Bundeslager 2016</td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">27.07.2016 - 07.08.2016</td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Das Bundeslager steht unter dem Motto "Zeit zu handeln".</td>
   </tr>
   <tr>
    <td> </td>
