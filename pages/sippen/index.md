@@ -22,3 +22,13 @@ headerimage: /img/header_mitgliedwerden.png
       </td>
     </tr>      
 </table>        
+
+<div class="panel" data-role="panel">
+ <div class="heading">
+  <img class="icon" src="">
+   <span class="title">Die Braunbären</span>
+  </div>
+  <div class="content padding10" style="display: none;">
+   Bei der Sippe "die Braunbären" handelt es sich um die Jungmanschaft des Stammes.
+  </div>
+ </div>
