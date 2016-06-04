@@ -6763,4 +6763,5 @@ A:Hover {text-decoration: underline;}
 a:link { color: #000000; }
 a:visited { color: #000000; }
 }
+a:input {cursor: pointer;}
 /*# sourceMappingURL=bootstrap.css.map */
