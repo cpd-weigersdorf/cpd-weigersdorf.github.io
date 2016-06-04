@@ -15,9 +15,9 @@ headerimage: /img/header_mitgliedwerden.png
  </thead>
  <tbody>
   <tr>
-   <td>Bundeslager 2016</td>
-   <td>27.07.2016 - 07.08.2016</td>
-   <td>Das <a style="text-decoration:none" style="color:#000000" href="/veranstaltungen/20160727-bundeslager/">Bundeslager</a> steht unter dem Motto "Zeit zu handeln".</td>
+   <td style="color:#000000">Bundeslager 2016</td>
+   <td style="color:#000000">27.07.2016 - 07.08.2016</td>
+   <td style="color:#000000">Das <a style="color:#000000" href="/veranstaltungen/20160727-bundeslager/">Bundeslager</a> steht unter dem Motto "Zeit zu handeln".</td>
   </tr>
   <tr>
    <td></td>
