@@ -10,7 +10,7 @@ headerimage: /img/header_mitgliedwerden.png
                  <img src="/img/Schweden4.jpg">
                  <img src="/img/Schweden5.jpg">
                 </div>
-                <span class="tile-label">Schweden 2011</span>
+                <span class="tile-label" style="color:#000000">Schweden 2011</span>
 </div>
 
 <div class="tile-wide bg-orange fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157666610522574/'">
