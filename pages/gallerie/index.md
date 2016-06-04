@@ -2,7 +2,10 @@
 layout: page
 headerimage: /img/header_mitgliedwerden.png
 ---
-<div class="tile-wide bg-orange fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/'">
+
+<center><h3>Gallerie<h3></center>
+
+<div class="tile-wide bg-blue fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157669148755046/'">
                 <div class="tile-content image-set"> 
                  <img src="/img/Schweden1.jpg">
                  <img src="/img/Schweden2.jpg">
@@ -13,7 +16,7 @@ headerimage: /img/header_mitgliedwerden.png
                 <span class="tile-label" style="color:#000000"><b>Schweden 2011</b></span>
 </div>
 
-<div class="tile-wide bg-orange fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157666610522574/'">
+<div class="tile-wide bg-blue fg-white" data-role="tile" onclick="window.location.href = 'https://www.flickr.com/photos/141398173@N07/albums/72157666610522574/'">
                 <div class="tile-content image-set"> 
                  <img src="/img/Bula1.jpg">
                  <img src="/img/Bula2.jpg">
