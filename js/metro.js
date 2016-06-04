@@ -103,15 +103,15 @@ window.isTouchDevice = function() {
 window.METRO_LOCALES = {
     'en': {
         months: [
-            "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December",
-            "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+            "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember",
+            "Jan", "Feb", "Mrz", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"
         ],
         days: [
-            "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday",
-            "Su", "Mo", "Di", "Mi", "Do", "Fr", "Sa"
+            "Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag",
+            "So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"
         ],
         buttons: [
-            "Today", "Clear", "Cancel", "Help", "Prior", "Next", "Finish"
+            "Heute", "Zurücksetzen", "Abbrechen", "Hilfe", "Früher", "Später", "Fertig"
         ]
     },
     'fr': {
@@ -195,15 +195,15 @@ window.METRO_LOCALES = {
     },
     'de': {
         months: [
-            "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember",
-            "Jan", "Feb", "Mrz", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"
+            "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December",
+            "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
         ],
         days: [
-            "Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag",
-            "So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"
+            "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday",
+            "Su", "Mo", "Di", "Mi", "Do", "Fr", "Sa"
         ],
         buttons: [
-            "Heute", "Zurücksetzen", "Abbrechen", "Hilfe", "Früher", "Später", "Fertig"
+            "Today", "Clear", "Cancel", "Help", "Prior", "Next", "Finish"
         ]
     },
     /** By Javier Rodríguez (javier.rodriguez at fjrodriguez.com) */
