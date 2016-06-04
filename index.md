@@ -16,9 +16,12 @@ Siedlungen und Neuanfänge auf dieses Ereignis vor. Der ganze Bund wird zusammen
 spielen, singen und sich gegenseitig kennenlernen.
             </p>
     </div>
-    <div class="col-md-4">
+<iframe style="border: 0;" height="130" width="250" id="frame" src="http://www.pion.at/ex/cd.php?MTMwJTJDMjUwJTJDZmZhMjAwJTJDQkZEOEU0JTJDMCUzRCVBNyVCMEJ1bmRlc2xhZ2VyJTIwMjAxNiUyMGJlZ2lubnQlMjBpbiUyQzEwJTJDMjAlMkMwMDAwMDAlMkMyNy4wNy4yMDE2JTJDMCUzQTAlM0EwJTNEJUE3JUIwRGFzJTIwQnVuZGVzbGFnZXIlMjBiZWdpbm50JTIxJTIxJTJDMTAlMkMyOSUyQzAwMDAwMA==" scrolling="no">
+</iframe>
+    
+   <div class="col-md-4">
         <img src="/veranstaltungen/20160727-bundeslager/logo.png" style="max-height: 200px;" />
-    </div>
+   </div>
 </div>
 
 
