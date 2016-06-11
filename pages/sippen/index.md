@@ -42,7 +42,7 @@ headerimage: /img/header_mitgliedwerden.png
 
  <div class="panel" data-role="panel">
  <div class="heading">
-  <img class="icon" src="/img/kormo.png/">
+  <img class="icon" src="/img/kormo.jpg/">
    <span class="title">Kormorane</span>
   </div>
   <div class="content padding10" style="display: none;">
