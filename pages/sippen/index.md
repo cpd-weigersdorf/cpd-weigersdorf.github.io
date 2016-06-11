@@ -37,3 +37,15 @@ headerimage: /img/header_mitgliedwerden.png
    Bei der Sippe "die Braunbären" handelt es sich um eine von zwei Mädchensippen des Stammes. Erfahre <a href="/pages/baustelle/">hier</a> mehr.
   </div>
  </div>
+
+ <br>
+
+ <div class="panel" data-role="panel">
+ <div class="heading">
+  <img class="icon" src="/img/kormo.png/">
+   <span class="title">Kormorane</span>
+  </div>
+  <div class="content padding10" style="display: none;">
+   Bei der Sippe "Kormorane" handelt es sich um eine Jungensippe des Stammes. Erfahre <a href="/pages/baustelle/">hier</a> mehr.
+  </div>
+ </div>
