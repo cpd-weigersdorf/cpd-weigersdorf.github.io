@@ -4,7 +4,7 @@ headerimage: /img/header_start.png
 ---
 <br>
 <br>
-<center><h3> News </h3></center>
+<center><h1> News </h1></center>
 <br>
 <br>
 <div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20161030-ting/'">

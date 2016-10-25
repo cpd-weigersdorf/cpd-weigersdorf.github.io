@@ -9,6 +9,6 @@ Der Lausitzlauf ist ein Wettkampf, in dem Lausitzer Sippen aus den versiedensten
 wie möglich an den einzelnen Stationen erhalten. Unser Stamm ist dieses Jahr der Titelverteidiger, da unsere Jungmaschaft letzts Jahr gewann. Da die Sipplinge aber 
 nun zu alt sind, hoffen wir das eine andere Sippe unseres Stammes dieses Jahr sein wisse beweisen kann. 
 <br>
-<h1>Ein Foto aus dem letzen Jahr<h1>
+<h3>Ein Foto aus dem letzen Jahr</h3>
 
 (folgt in kürze :D)

@@ -11,7 +11,7 @@ Dieses Jahr beginnt der Ting bereits einen Tag früher. An diesem Tag wird eine 
 <br> 
 <h1>Nicht vergessen</h1>
 <br>
-Für die Übernachtenden: Schlafsack, Isomatte, warme Schachen, Waschtasche, Essgeschir, Trinkbecher, <h1>Gute Laune</h1>. Kosten: 3€
+Für die Übernachtenden: Schlafsack, Isomatte, warme Schachen, Waschtasche, Essgeschir, Trinkbecher, Gute Laune. Kosten: 3€
 <br>
 nur Ting-Teilnehmer: Essgeschir, Trinkbecher. Kosten: 1€
 <br>
