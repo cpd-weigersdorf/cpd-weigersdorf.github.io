@@ -15,14 +15,14 @@ headerimage: /img/header_mitgliedwerden.png
  </thead>
  <tbody>
     <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160629-schnupperlager/'"><font color="#000000" >Schnupperlager 2016</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160629-schnupperlager/'"><font color="#000000" >29.06.2016 - 09.07.2016</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160629-schnupperlager/'"><font color="#000000" >Du willst wissen wie das Pfadfinderleben aussieht, dann melde dich doch einfach an.</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >Stammesting</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >30.10.2016 - 31.10.2016</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >Es sind alle Stammesmitglieder herzlich eingeladen.</font></td>
   </tr>
   <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Bundeslager 2016</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">27.07.2016 - 07.08.2016</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20160727-bundeslager/'">Das Bundeslager steht unter dem Motto "Zeit zu handeln".</td>
+   <td style="cursor:pointer" onclick="window.location.href = '...'">Lausitzlauf 2017</td>
+   <td style="cursor:pointer" onclick="window.location.href = '...'"></td>
+   <td style="cursor:pointer" onclick="window.location.href = '...'">Findet bei Hagenwerder statt.</td>
   </tr>
   <tr>
    <td> </td>
