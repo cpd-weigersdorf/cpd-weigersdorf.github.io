@@ -15,14 +15,14 @@ headerimage: /img/header_mitgliedwerden.png
  </thead>
  <tbody>
   <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >Stammesting</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >30.10.2016 - 31.10.2016</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >Es sind alle Stammesmitglieder herzlich eingeladen.</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20161030-ting/'"><font color="#000000" >Stammesting</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20161030-ting/'"><font color="#000000" >30.10.2016 - 31.10.2016</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20161030-ting/'"><font color="#000000" >Es sind alle Stammesmitglieder herzlich eingeladen.</font></td>
   </tr>
   <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '...'">Lausitzlauf 2017</td>
-   <td style="cursor:pointer" onclick="window.location.href = '...'"></td>
-   <td style="cursor:pointer" onclick="window.location.href = '...'">Findet bei Hagenwerder statt.</td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">Lausitzlauf 2017</td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">06.05.2017</td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">Findet bei Hagenwerder statt.</td>
   </tr>
   <tr>
    <td> </td>
