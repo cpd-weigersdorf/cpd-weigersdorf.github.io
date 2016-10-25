@@ -4,7 +4,10 @@ headerimage: /img/header_start.png
 ---
 <br>
 <br>
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '...'">
+<center><h3> News </h3></center>
+<br>
+<br>
+<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20161030-ting/'">
     <div class="col-md-5 col-md-offset-1">
         <h3>Stammesting</h3>
         <p>
@@ -19,7 +22,7 @@ Wer Lust und Laune hat darf bereits Sonntag starten. Da wird gemeinsam die Jurte
 <br>
 <br>
 
-<div class="row" style="background: #303F9F; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '...'">
+<div class="row" style="background: #303F9F; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">
     <div class="col-md-10 col-md-offset-1">
         <h3>Lausitzlauf 2017</h3>
         <p>

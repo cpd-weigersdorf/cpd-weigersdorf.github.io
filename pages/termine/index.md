@@ -8,7 +8,7 @@ headerimage: /img/header_mitgliedwerden.png
 <table class="table striped hovered cell-hovered border bordered">
  <thead>
   <tr>
-   <th>Veranstalltung</th>
+   <th>Veranstaltung</th>
    <th>Datum</th>
    <th>Infos</th>
   <tr>
