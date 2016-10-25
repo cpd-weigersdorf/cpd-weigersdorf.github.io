@@ -14,7 +14,7 @@ headerimage: /img/header_mitgliedwerden.png
   <tr>
  </thead>
  <tbody>
-    <tr>
+  <tr>
    <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >Stammesting</font></td>
    <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >30.10.2016 - 31.10.2016</font></td>
    <td style="cursor:pointer" onclick="window.location.href = '...'"><font color="#000000" >Es sind alle Stammesmitglieder herzlich eingeladen.</font></td>
@@ -29,7 +29,7 @@ headerimage: /img/header_mitgliedwerden.png
    <td> </td>
    <td> </td>
   </tr>
-
+ </tbody>
 </table>
 
 
