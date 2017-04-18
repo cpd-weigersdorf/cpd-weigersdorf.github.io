@@ -20,7 +20,7 @@ headerimage: /img/header_start.png
 </div>
 <br>
 <br>
-<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20161030-ting/'">
+<div class="row" style="background: #EF420A; cursor: pointer; color: #fff; padding-top: 15px; padding-bottom: 15px;" onclick="window.location.href = '/veranstaltungen/20170722-lettland/'">
     <div class="col-md-5 col-md-offset-1">
         <h3>Sommerfahrt nach Lettland</h3>
         <p>
