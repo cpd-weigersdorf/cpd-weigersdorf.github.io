@@ -15,9 +15,9 @@ headerimage: /img/header_mitgliedwerden.png
  </thead>
  <tbody>
   <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">Lausitzlauf 2017</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">06.05.2017</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'">Findet bei Hagenwerder statt.</td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'"><font color="#000000" >Lausitzlauf 2017</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'"><font color="#000000" >06.05.2017</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'"><font color="#000000" >Findet bei Hagenwerder statt.</font></td>
   </tr>
   <tr>
    <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170722-lettland/'">Sommerfahrt 2017</td>
