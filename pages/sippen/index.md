@@ -4,7 +4,7 @@ headerimage: /img/header_mitgliedwerden.png
 ---
 <br>
 
-<div class="panel" data-role="panel">
+<div class="panel collapsible collapsed" data-role="panel">
  <div class="heading">
   /* <img class="icon" src=""> */
    <span class="title">Die Braunbären</span>
