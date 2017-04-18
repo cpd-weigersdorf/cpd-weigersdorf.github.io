@@ -7,7 +7,7 @@ headerimage: /img/header_mitgliedwerden.png
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG:</h2>
 <p>Chris Woischnik<br />
-<p> </p>
+<p>chris.goldene.eichen@gmail.com</p>
 <p>Quelle: <em><a rel="nofollow" href="http://www.e-recht24.de/impressum-generator.html">http://www.e-recht24.de</a></em></p>
 
 
