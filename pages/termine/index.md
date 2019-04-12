@@ -11,7 +11,7 @@ headerimage: /img/header_mitgliedwerden.png
    <th>Veranstaltung</th>
    <th>Datum</th>
    <th>Infos</th>
-  <tr>
+  </tr>
  </thead>
  <tbody>
   <tr>
