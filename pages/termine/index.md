@@ -12,7 +12,6 @@ headerimage: /img/header_mitgliedwerden.png
    <th>Datum</th>
    <th>Infos</th>
   <tr>
- </thead>
  <tbody>
   <tr>
    <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20190731-sommerfahrt/'"><font color="#000000" >Sommerfahrt 2019</font></td>
@@ -20,7 +19,12 @@ headerimage: /img/header_mitgliedwerden.png
    <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20190731-sommerfahrt/'"><font color="#000000" >Sommerfahrt nach Irland</font></td>
   </tr>
  </tbody>
-</table>
+ </table>
+
+
+
+ 
+
 
 
 
