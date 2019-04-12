@@ -15,23 +15,12 @@ headerimage: /img/header_mitgliedwerden.png
  </thead>
  <tbody>
   <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'"><font color="#000000" >Lausitzlauf 2017</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'"><font color="#000000" >06.05.2017</font></td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170506-lausitzlauf/'"><font color="#000000" >Findet bei Hagenwerder statt.</font></td>
-  </tr>
-  <tr>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170722-lettland/'">Sommerfahrt 2017</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170722-lettland/'">22.07.2017 - 05.08.2017</td>
-   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20170722-lettland/'">Es geht nach Lettland</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20190731-sommerfahrt/'"><font color="#000000" >Sommerfahrt 2019</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20190731-sommerfahrt/'"><font color="#000000" >31.07 - 16.08.2019</font></td>
+   <td style="cursor:pointer" onclick="window.location.href = '/veranstaltungen/20190731-sommerfahrt/'"><font color="#000000" >Sommerfahrt nach Irland</font></td>
   </tr>
  </tbody>
 </table>
-
 
 
 
